@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7dca920fa3c26514eba17be606543279
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SVN-Coder's Crux
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3fad11ab6b2929f4ab32084bd515305e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 1
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
